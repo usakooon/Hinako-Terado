@@ -14,6 +14,7 @@ Currently under revision (a new CV tailored for the internship will be provided)
 - GIS: QGIS (intermediate level)
 - Software: Microsoft Office (Excel, Word, PowerPoint)
 - Communication: Comfortable reading and writing in English
+  IELTS overall 6.0(2024)
 
 ##  Internship Details
 - **Proposed start date**: August 1, 2025
