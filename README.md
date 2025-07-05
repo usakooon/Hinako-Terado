@@ -3,19 +3,19 @@
 ##  Location
 Asao-ku, Kawasaki, Japan
 
-## 📄 Resume
+##  Resume
 Currently under revision (a new CV tailored for the internship will be provided)
 
-## 🗺 OSM Involvement
+##  OSM Involvement
 - Participated in a Humanitarian Mapathon organized by my seminar at university
-- Familiar with the HOT Tasking Manager and basic mapping workflows
+- Familiar with the HOT Tasking Manager and basic mapping workflows (Building, farmland, load)
 
-## 🧠 Skills
+##  Skills
 - GIS: QGIS (intermediate level)
 - Software: Microsoft Office (Excel, Word, PowerPoint)
 - Communication: Comfortable reading and writing in English
 
-## 🔧 Internship Details
+##  Internship Details
 - **Proposed start date**: August 1, 2025
 - **Desired duration**: As long as possible
 - **Days per week**: 1–2 days/week
