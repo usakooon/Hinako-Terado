@@ -3,7 +3,7 @@
 ##  Location
 Kawasaki, Japan
 
-## 📄 CV / Resume
+## CV / Resume
 Interested parties can request my full CV via email or LinkedIn.  
 A brief version is available [here](https://docs.google.com/document/d/16WSAkKrSnProIKoNdnrKW49Bd1pC5XQJ/edit?usp=drivesdk&ouid=100749681504160064272&rtpof=true&sd=true)  
 (Note: personal details such as address and contact info are omitted.)
@@ -26,3 +26,6 @@ A brief version is available [here](https://docs.google.com/document/d/16WSAkKrS
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/terado-hinako-22097036a/)
 - [OpenStreatMap](https://www.openstreetmap.org/user/USAKOOON)
+- [HDYC](https://hdyc.neis-one.org/?USAKOOON)
+- [HOT TaskingManager](https://tasks.hotosm.org/contributions)
+  
