@@ -25,3 +25,4 @@ A brief version is available [here](https://docs.google.com/document/d/16WSAkKrS
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/terado-hinako-22097036a/)
+- [OpenStreatMap](https://www.openstreetmap.org/user/USAKOOON)
