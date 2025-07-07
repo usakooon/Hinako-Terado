@@ -3,8 +3,10 @@
 ##  Location
 Kawasaki, Japan
 
-##  Resume
-https://docs.google.com/document/d/1EzT2CAp1-7qZN9ysvPaY0NFgw4VU8k85/edit?usp=drivesdk&ouid=100749681504160064272&rtpof=true&sd=true
+## 📄 CV / Resume
+Interested parties can request my full CV via email or LinkedIn.  
+A brief version is available [here](https://docs.google.com/document/d/16WSAkKrSnProIKoNdnrKW49Bd1pC5XQJ/edit?usp=drivesdk&ouid=100749681504160064272&rtpof=true&sd=true)  
+(Note: personal details such as address and contact info are omitted.)
 
 ##  OSM Involvement
 - Participated in a Humanitarian Mapathon organized by my seminar at university
@@ -20,3 +22,6 @@ https://docs.google.com/document/d/1EzT2CAp1-7qZN9ysvPaY0NFgw4VU8k85/edit?usp=dr
 - **Desired duration**: As long as possible
 - **Days per week**: 1–2 days/week
 - **Proposed stipend**: 250 EUR/month# Hinako-Terado
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/terado-hinako-22097036a/)
