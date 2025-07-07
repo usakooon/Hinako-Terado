@@ -1,10 +1,10 @@
 # Hinako Terado
 
 ##  Location
-Asao-ku, Kawasaki, Japan
+Kawasaki, Japan
 
 ##  Resume
-Currently under revision (a new CV tailored for the internship will be provided)
+https://docs.google.com/document/d/1EzT2CAp1-7qZN9ysvPaY0NFgw4VU8k85/edit?usp=drivesdk&ouid=100749681504160064272&rtpof=true&sd=true
 
 ##  OSM Involvement
 - Participated in a Humanitarian Mapathon organized by my seminar at university
@@ -13,8 +13,7 @@ Currently under revision (a new CV tailored for the internship will be provided)
 ##  Skills
 - GIS: QGIS (intermediate level)
 - Software: Microsoft Office (Excel, Word, PowerPoint)
-- Communication: Comfortable reading and writing in English
-  IELTS overall 6.0(2024)
+- Communication: Comfortable reading and writing, listening, speaking in English
 
 ##  Internship Details
 - **Proposed start date**: August 1, 2025
