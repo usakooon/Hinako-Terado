@@ -11,9 +11,12 @@ A brief version is available [here](https://docs.google.com/document/d/16WSAkKrS
 ##  OSM Involvement
 - Participated in a Humanitarian Mapathon organized by my seminar at university
 - Familiar with the HOT Tasking Manager and basic mapping workflows (Building, farmland, load)
+- [OSM acount](https://www.openstreetmap.org/user/USAKOOON)
+- [HDYC](https://hdyc.neis-one.org/?USAKOOON)
+- [HOT Tasking Manager](https://tasks.hotosm.org/contributions)
 
 ##  Skills
-- GIS: QGIS (intermediate level)
+- GIS: QGIS (intermediate level) *[QGIS Training Mnual](https://docs.qgis.org/3.40/ja/docs/training_manual/index.html) 
 - Software: Microsoft Office (Excel, Word, PowerPoint)
 - Communication: Comfortable reading and writing, listening, speaking in English
 
@@ -27,5 +30,5 @@ A brief version is available [here](https://docs.google.com/document/d/16WSAkKrS
 - [LinkedIn](https://www.linkedin.com/in/terado-hinako-22097036a/)
 - [OpenStreatMap](https://www.openstreetmap.org/user/USAKOOON)
 - [HDYC](https://hdyc.neis-one.org/?USAKOOON)
-- [HOT TaskingManager](https://tasks.hotosm.org/contributions)
+- [HOT Tasking Manager](https://tasks.hotosm.org/contributions)
   
