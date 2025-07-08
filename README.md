@@ -19,6 +19,7 @@ A brief version is available [here](https://docs.google.com/document/d/16WSAkKrS
 - GIS: QGIS (intermediate level) *[QGIS Training Manual](https://docs.qgis.org/3.40/ja/docs/training_manual/index.html) 
 - Software: Microsoft Office (Excel, Word, PowerPoint)
 - Communication: Comfortable reading and writing, listening, speaking in English
+- GitHub: Basic operations
 
 ##  Internship Details
 - **Proposed start date**: August 1, 2025
