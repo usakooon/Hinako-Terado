@@ -16,7 +16,7 @@ A brief version is available [here](https://docs.google.com/document/d/16WSAkKrS
 - [HOT Tasking Manager](https://tasks.hotosm.org/contributions)
 
 ##  Skills
-- GIS: QGIS (intermediate level) *[QGIS Training Mnual](https://docs.qgis.org/3.40/ja/docs/training_manual/index.html) 
+- GIS: QGIS (intermediate level) *[QGIS Training Manual](https://docs.qgis.org/3.40/ja/docs/training_manual/index.html) 
 - Software: Microsoft Office (Excel, Word, PowerPoint)
 - Communication: Comfortable reading and writing, listening, speaking in English
 
